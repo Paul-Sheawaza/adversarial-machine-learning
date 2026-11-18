@@ -1,0 +1,5 @@
+fraction,labels_changed,verified_changed,clean_test_accuracy,train_label_hash,test_labels_unchanged
+0.0,0,0,0.9622,ee47679cf3fee774,True
+0.05,67,67,0.96,c50002482df852c2,True
+0.1,135,135,0.9578,40ea3e37468733a0,True
+0.2,269,269,0.9333,19b7e73d459d276e,True

@@ -1,0 +1,4 @@
+variant,clean,fgsm_adaptive,pgd_adaptive
+Baseline,0.9622,0.5156,0.4889
+Augmented A (eps 0.10),0.94,0.2844,0.26
+Student variant (eps 0.03),0.9622,0.4667,0.4378
